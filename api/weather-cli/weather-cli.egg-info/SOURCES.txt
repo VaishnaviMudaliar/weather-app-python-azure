@@ -1,0 +1,9 @@
+.gitignore
+.vscode\launch.json
+.vscode\settings.json
+api\weather-cli\.gitignore
+api\weather-cli\.vscode\launch.json
+api\weather-cli\.vscode\settings.json
+api\weather-cli\cli.py
+api\weather-cli\cli.pyc
+api\weather-cli\cli.pyi
